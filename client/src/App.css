@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@500&family=EB+Garamond:ital@1&family=Exo+2:ital,wght@1,500&family=Josefin+Sans:ital,wght@1,300&family=Jost:ital@1&family=Kalam&family=Libre+Baskerville:ital@1&family=Lora:ital@1&family=Merriweather:ital,wght@1,300;1,700&family=Mooli&family=Old+Standard+TT:ital@1&family=Playfair+Display+SC:wght@700&family=Playfair+Display:ital@1&family=Roboto+Slab:wght@500;700&family=Spectral+SC&family=Sriracha&family=Unna:wght@700&family=Ysabeau+SC&display=swap');
+table{
+  /* background-image:linear-gradient(to top,#536976,#292e49); */
+ /* background-image: url("https://media.istockphoto.com/id/165724062/vector/safe-icon.jpg?s=2048x2048&w=is&k=20&c=P5eoHk__R6Qz0kwPuzFDyjEv-lajJOlMa3cn9vMktvk="); */
+ background-color: darkgrey;
+  box-shadow:25px 20px 20px rgb(0, 0, 0);
+  border-radius: 5%;
+  backdrop-filter: blur(10px);
+  background-color: transparent;
+ background-size: cover;
+}
+table td{
+  font-family: 'Mooli', sans-serif;;
+  font-weight: 900;
+}
+h1{
+  font-family: 'Roboto Slab', serif;
+}
+.mainForm{
+  
+  background-image: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80");
+
+  height: 100vh;
+}
+/* .card :hover{
+  transform: scale(1);
+}
+.card:hover  {
+  transform: scale(1);
+} */
+.serList div:hover {
+  background: rgb(238, 219, 9);
+  transform: translateY(-25px);
+}
+table td input{
+border: none;
+outline: none;
+background-color: #00596a00;
+border-bottom: 3px solid black;
+}
