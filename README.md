@@ -16,3 +16,6 @@
 
 # Layout 3 : Service
 ## 
+![image](https://github.com/Ragulmoorthi/MERN-Project/assets/138356332/60a6bef3-4722-43fc-9301-5ca1bbd19922)
+# Layout 4:
+![image](https://github.com/Ragulmoorthi/MERN-Project/assets/138356332/3d60fe18-cc6b-40ef-a7a4-976e167d51f5)
